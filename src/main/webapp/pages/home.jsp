@@ -22,6 +22,7 @@ Enter Roll :<f:input path="roll" /><f:errors path="roll"/><br><br>
 Enter Name :<f:input path="name"/><f:errors path="name"/><br><br>
 Enter Marks :<f:input path="marks" /><f:errors path="marks"/><br><br>
 
+
 <input type="submit" value="Register">
 
 
